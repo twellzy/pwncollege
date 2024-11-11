@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Tue Oct 15 12:53:55 UTC 2024
+OS\ Name=Linux
+OS\ Version=6.8.0-44-generic
+Username=hacker
+Hostname=reverse-engineering~level20-1
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=10/15/24, 12\:53 PM

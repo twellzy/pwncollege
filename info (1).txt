@@ -1,0 +1,29 @@
+5 a's
+
+ce3f0ce5215e8c3347a2d721c5115566
+a84afb0606795c944e67dc9c5070d403
+ce364d3d4cc332b6a8fa8c8fdd565a74 
+d55d3f3f2d935eee3bd813625b848edb
+
+6 a's
+
+cc2de2ec4d393003595b59880c1e5de0 - 10 flag bytes
+dae4fcad7e167f921bf96add7d1d0954 - 16 flag bytes
+9b79c15acf299ea02e54c1c743094e8e - 16 flag bytes
+6e15dc4d4f25fbb806ae302057e3beb3 - 16 flag bytes
+29e756c3c0fe5ba8a3a279ef42269f66 - 16 padding bytes
+
+flag - 58 bytes
+
+7 a's
+
+37d6afcd431c3c0063ea3dd0b98f542f
+397d663773f38dad8a05694f19c905b5
+1aac82148400420d988af9886338d0dc
+def36f5465175cd95cd8a5d382618528
+25e7da678cb34d92fe1ad81c1832c2eb - 15 padding bytes
+
+\n...............
+0x7d
+
+EBAQEBAQEBAQEBAQEBAQEA==
